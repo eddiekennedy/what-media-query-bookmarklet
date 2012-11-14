@@ -1,0 +1,58 @@
+body{
+	margin:0;
+	padding:20px 0 0 0;
+	font-family:"Gill Sans";
+	color:#333;
+}
+#container{
+	width:70%;
+	padding:10% 0 0;
+	margin:0 auto;
+	position:relative;
+}
+a{
+	margin:0;
+	padding:5px 10px;
+	background:#ddd;
+	border:1px solid #ccc;
+	color:#333;
+	text-decoration:none;
+	position:absolute;
+	top:0;
+}
+@media screen and (min-width: 400px) {
+section {
+background: #fff; }
+}
+@media screen and (min-width: 600px) {
+section {
+background: #fff; }
+}
+@media screen and (min-width: 800px) {
+section {
+background: #fff; }
+}
+@media screen and (min-width: 1000px) {
+section {
+background: #fff; }
+}
+@media screen and (min-width: 1200px) {
+section {
+background: #fff; }
+}
+@media screen and (min-width: 1400px) {
+section {
+background: #fff; }
+}
+@media screen and (min-width: 1600px) {
+section {
+background: #fff; }
+}
+@media screen and (min-width: 1800px) {
+section {
+background: #fff; }
+}
+@media screen and (min-width: 2000px) {
+section {
+background: #fff; }
+}
